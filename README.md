@@ -7,7 +7,7 @@ SilentLink 内置 Cloudflare IP 优选功能，能够自动检测多个 Cloudfla
 
 主要特点
 简单易用
-
+下载地址：https://github.com/jack202299/silentlink/releases/tag/release
 SilentLink 提供简洁的界面和快速连接功能，用户无需复杂设置即可建立连接。
 
 Cloudflare IP 优选
