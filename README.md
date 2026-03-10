@@ -6,6 +6,8 @@ SilentLink 是一款轻量级网络连接工具，提供简单、稳定的网络
 SilentLink 内置 Cloudflare IP 优选功能，能够自动检测多个 Cloudflare 网络入口，并选择延迟最低、速度最快的 IP，从而提升连接速度和稳定性。
 下载地址：https://github.com/jack202299/silentlink/releases/tag/release
 
+小飞机交流：https://t.me/+6K7ySnb9JRVmYTQ1
+
 ✨ Features
 
 One-click connection
