@@ -2,18 +2,27 @@ SilentLink
 
 SilentLink 是一款轻量级网络连接工具，提供 简单、稳定、安全 的网络访问体验。
 
+在当前 大翻墙运动 的背景下，各类翻墙工具不断发展。
+SilentLink 致力于提供一种 更简单、更稳定的一键式网络连接方案，让用户无需复杂配置即可获得流畅的网络体验。
+
 软件采用极简设计，用户 一键即可建立连接，无需复杂配置。
 
 SilentLink 内置 Cloudflare IP 优选功能，能够自动检测多个 Cloudflare 网络入口，并选择延迟最低、速度最快的 IP，从而提升连接速度和稳定性。
 
-下载地址：
+📥 Download
+
+GitHub Releases：
+
 https://github.com/jack202299/silentlink/releases
 
-交流群：
+💬 Community
+
+Telegram 交流群：
+
 https://t.me/+6K7ySnb9JRVmYTQ1
 
 ✨ Features
-One-click Connection
+One-Click Connection
 
 一键连接，无需复杂配置。
 
@@ -39,11 +48,19 @@ SilentLink 永久免费使用。
 
 每个用户每月可获得：
 
-60GB 高速流量,流量用完后，系统自动降速为256KB/S
+60GB 高速流量
 
-无需订阅
-无需付费
-无需注册
+流量用完后系统会自动降速至：
+
+256KB/s
+
+无需：
+
+订阅
+
+付费
+
+注册账号
 
 🔒 Privacy
 
@@ -57,7 +74,7 @@ SilentLink 非常重视用户隐私：
 
 不保存连接记录
 
-所有连接仅用于实时数据传输，不进行存储或分析。
+所有连接仅用于 实时数据传输，不会进行存储或分析。
 
 🖥 Supported Platforms
 
@@ -83,7 +100,7 @@ macOS
 
 点击 Connect
 
-即可开始使用。
+即可开始使用
 
 🔧 Core Technology
 
@@ -105,7 +122,9 @@ SilentLink 的目标是提供一个：
 
 简单 · 稳定 · 高效 · 安全
 
-的网络连接工具，让用户无需复杂配置即可获得流畅的网络体验。
+的网络连接工具。
+
+在当前 大翻墙运动中，各类翻墙工具层出不穷，SilentLink 希望通过极简设计，让用户 无需复杂配置即可获得流畅稳定的网络体验。
 
 📜 License
 
